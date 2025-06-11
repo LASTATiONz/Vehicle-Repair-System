@@ -1,0 +1,60 @@
+[2025-03-24 09:19:27] [223.206.69.137] No existing guest_no found for branch SRT. Generating new guest_no...
+[2025-03-24 09:19:27] [223.206.69.137] Generated new guest_no: SRTGUEST01196 for branch SRT
+[2025-03-24 10:10:26] [223.206.69.137] No existing guest_no found for branch SRT. Generating new guest_no...
+[2025-03-24 10:10:26] [223.206.69.137] Generated new guest_no: SRTGUEST01197 for branch SRT
+[2025-03-24 10:10:26] [223.206.69.137] Retrieved job_name: 'พนักงานขายเครดิต (สุราษฎร์/ระนอง/ชุมพร)' for job_no: SRT0063   
+[2025-03-24 10:10:26] [223.206.69.137] Inserted resume_job session1 successfully for guest_no SRTGUEST01197.
+[2025-03-24 10:10:26] [223.206.69.137] Updated guest_next_number to 1197 for branch SRT.
+[2025-03-24 10:11:01] [223.206.69.137] Using existing guest_no: SRTGUEST01197
+[2025-03-24 10:11:01] [223.206.69.137] Retrieved job_name: 'พนักงานขายเครดิต (สุราษฎร์/ระนอง/ชุมพร)' for job_no: SRT0063   
+[2025-03-24 10:11:01] [223.206.69.137] Session2 updated successfully for guest_no: SRTGUEST01197.
+[2025-03-24 10:11:38] [223.206.69.137] Using existing guest_no: SRTGUEST01197
+[2025-03-24 10:11:38] [223.206.69.137] Retrieved job_name: 'พนักงานขายเครดิต (สุราษฎร์/ระนอง/ชุมพร)' for job_no: SRT0063   
+[2025-03-24 10:11:38] [223.206.69.137] Session3 updated successfully for guest_no: SRTGUEST01197.
+[2025-03-24 10:12:34] [223.206.69.137] Using existing guest_no: SRTGUEST01197
+[2025-03-24 10:12:34] [223.206.69.137] Retrieved job_name: 'พนักงานขายเครดิต (สุราษฎร์/ระนอง/ชุมพร)' for job_no: SRT0063   
+[2025-03-24 10:12:34] [223.206.69.137] Session4 updated successfully for guest_no: SRTGUEST01197.
+[2025-03-24 10:12:56] [223.206.69.137] Using existing guest_no: SRTGUEST01197
+[2025-03-24 10:12:56] [223.206.69.137] Retrieved job_name: 'พนักงานขายเครดิต (สุราษฎร์/ระนอง/ชุมพร)' for job_no: SRT0063   
+[2025-03-24 10:12:56] [223.206.69.137] Session5 updated successfully for guest_no: SRTGUEST01197.
+[2025-03-24 10:13:10] [223.206.69.137] Using existing guest_no: SRTGUEST01197
+[2025-03-24 10:13:10] [223.206.69.137] Retrieved job_name: 'พนักงานขายเครดิต (สุราษฎร์/ระนอง/ชุมพร)' for job_no: SRT0063   
+[2025-03-24 10:13:10] [223.206.69.137] Session6 updated successfully for guest_no: SRTGUEST01197.
+[2025-03-24 10:49:42] [223.206.69.137] No existing guest_no found for branch SRT. Generating new guest_no...
+[2025-03-24 10:49:42] [223.206.69.137] Generated new guest_no: SRTGUEST01198 for branch SRT
+[2025-03-24 10:49:42] [223.206.69.137] Inserted resume_job session1 successfully for guest_no SRTGUEST01198.
+[2025-03-24 10:49:42] [223.206.69.137] Updated guest_next_number to 1198 for branch SRT.
+[2025-03-24 10:52:22] [223.206.69.137] No existing guest_no found for branch SRT. Generating new guest_no...
+[2025-03-24 10:52:22] [223.206.69.137] Generated new guest_no: SRTGUEST01199 for branch SRT
+[2025-03-24 10:52:22] [223.206.69.137] Inserted resume_job session1 successfully for guest_no SRTGUEST01199.
+[2025-03-24 10:52:22] [223.206.69.137] Updated guest_next_number to 1199 for branch SRT.
+[2025-03-24 11:01:13] [223.206.69.137] Using existing guest_no: SRTGUEST01199
+[2025-03-24 11:01:13] [223.206.69.137] Session1 updated successfully for guest_no: SRTGUEST01199.
+[2025-03-24 11:01:25] [223.206.69.137] Using existing guest_no: SRTGUEST01199
+[2025-03-24 11:01:25] [223.206.69.137] Session2 updated successfully for guest_no: SRTGUEST01199.
+[2025-03-24 11:01:30] [223.206.69.137] Using existing guest_no: SRTGUEST01199
+[2025-03-24 11:01:30] [223.206.69.137] Session3 updated successfully for guest_no: SRTGUEST01199.
+[2025-03-24 11:02:03] [223.206.69.137] Using existing guest_no: SRTGUEST01199
+[2025-03-24 11:02:03] [223.206.69.137] Session4 updated successfully for guest_no: SRTGUEST01199.
+[2025-03-24 11:02:08] [223.206.69.137] Using existing guest_no: SRTGUEST01199
+[2025-03-24 11:02:08] [223.206.69.137] Session5 updated successfully for guest_no: SRTGUEST01199.
+[2025-03-24 11:02:23] [223.206.69.137] Using existing guest_no: SRTGUEST01199
+[2025-03-24 11:02:23] [223.206.69.137] Session6 updated successfully for guest_no: SRTGUEST01199.
+[2025-03-24 11:02:23] [223.206.69.137] All sessions completed for guest_no: SRTGUEST01199.
+[2025-03-24 11:02:23] [223.206.69.137] --------------------------------------------------
+[2025-03-24 13:08:02] [223.206.69.137] No existing guest_no found for branch SRT. Generating new guest_no...
+[2025-03-24 13:08:02] [223.206.69.137] Generated new guest_no: SRTGUEST01200 for branch SRT
+[2025-03-24 13:08:02] [223.206.69.137] Inserted resume_job session1 successfully for guest_no SRTGUEST01200.
+[2025-03-24 13:08:02] [223.206.69.137] Updated guest_next_number to 1200 for branch SRT.
+[2025-03-24 13:08:14] [223.206.69.137] Using existing guest_no: SRTGUEST01200
+[2025-03-24 13:08:14] [223.206.69.137] Session2 updated successfully for guest_no: SRTGUEST01200.
+[2025-03-24 13:08:39] [223.206.69.137] Using existing guest_no: SRTGUEST01200
+[2025-03-24 13:08:39] [223.206.69.137] Session3 updated successfully for guest_no: SRTGUEST01200.
+[2025-03-24 13:09:09] [223.206.69.137] Using existing guest_no: SRTGUEST01200
+[2025-03-24 13:09:09] [223.206.69.137] Session4 updated successfully for guest_no: SRTGUEST01200.
+[2025-03-24 13:09:19] [223.206.69.137] Using existing guest_no: SRTGUEST01200
+[2025-03-24 13:09:19] [223.206.69.137] Session5 updated successfully for guest_no: SRTGUEST01200.
+[2025-03-24 13:09:32] [223.206.69.137] Using existing guest_no: SRTGUEST01200
+[2025-03-24 13:09:32] [223.206.69.137] Session6 updated successfully for guest_no: SRTGUEST01200.
+[2025-03-24 13:09:32] [223.206.69.137] All sessions completed for guest_no: SRTGUEST01200.
+[2025-03-24 13:09:32] [223.206.69.137] --------------------------------------------------

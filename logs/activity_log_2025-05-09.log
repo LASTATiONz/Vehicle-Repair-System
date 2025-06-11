@@ -1,0 +1,60 @@
+[2025-05-09 12:09:49] [49.237.44.46] No existing guest_no found for branch CHM. Generating new guest_no...
+[2025-05-09 12:09:49] [49.237.44.46] Generated new guest_no: CHMGUEST00681 for branch CHM
+[2025-05-09 12:09:49] [49.237.44.46] Inserted resume_job session1 successfully for guest_no CHMGUEST00681.
+[2025-05-09 12:09:49] [49.237.44.46] Updated guest_next_number to 681 for branch CHM.
+[2025-05-09 12:13:52] [49.237.44.46] Using existing guest_no: CHMGUEST00681
+[2025-05-09 12:13:52] [49.237.44.46] Session2 updated successfully for guest_no: CHMGUEST00681.
+[2025-05-09 12:17:28] [49.237.44.46] Using existing guest_no: CHMGUEST00681
+[2025-05-09 12:17:28] [49.237.44.46] Session3 updated successfully for guest_no: CHMGUEST00681.
+[2025-05-09 12:21:27] [49.237.44.46] Using existing guest_no: CHMGUEST00681
+[2025-05-09 12:21:27] [49.237.44.46] Session4 updated successfully for guest_no: CHMGUEST00681.
+[2025-05-09 12:28:41] [49.237.20.121] No existing guest_no found for branch CHM. Generating new guest_no...
+[2025-05-09 12:28:41] [49.237.20.121] Generated new guest_no: CHMGUEST00682 for branch CHM
+[2025-05-09 12:28:41] [49.237.20.121] Inserted resume_job session1 successfully for guest_no CHMGUEST00682.
+[2025-05-09 12:28:41] [49.237.20.121] Updated guest_next_number to 682 for branch CHM.
+[2025-05-09 12:31:30] [49.237.20.121] Using existing guest_no: CHMGUEST00682
+[2025-05-09 12:31:30] [49.237.20.121] Session2 updated successfully for guest_no: CHMGUEST00682.
+[2025-05-09 12:33:19] [49.237.20.121] Using existing guest_no: CHMGUEST00682
+[2025-05-09 12:33:19] [49.237.20.121] Session3 updated successfully for guest_no: CHMGUEST00682.
+[2025-05-09 12:36:52] [49.237.20.121] Using existing guest_no: CHMGUEST00682
+[2025-05-09 12:36:52] [49.237.20.121] Session4 updated successfully for guest_no: CHMGUEST00682.
+[2025-05-09 12:39:31] [49.237.20.121] Using existing guest_no: CHMGUEST00682
+[2025-05-09 12:39:31] [49.237.20.121] Session5 updated successfully for guest_no: CHMGUEST00682.
+[2025-05-09 12:56:58] [27.55.94.124] Using existing guest_no: SRTGUEST01445
+[2025-05-09 12:56:58] [27.55.94.124] Session1 updated successfully for guest_no: SRTGUEST01445.
+[2025-05-09 13:44:01] [49.228.239.134] No existing guest_no found for branch CHM. Generating new guest_no...
+[2025-05-09 13:44:01] [49.228.239.134] Generated new guest_no: CHMGUEST00683 for branch CHM
+[2025-05-09 13:44:01] [49.228.239.134] Inserted resume_job session1 successfully for guest_no CHMGUEST00683.
+[2025-05-09 13:44:01] [49.228.239.134] Updated guest_next_number to 683 for branch CHM.
+[2025-05-09 13:46:21] [49.228.239.134] Using existing guest_no: CHMGUEST00683
+[2025-05-09 13:46:21] [49.228.239.134] Session2 updated successfully for guest_no: CHMGUEST00683.
+[2025-05-09 13:47:35] [49.228.239.134] Using existing guest_no: CHMGUEST00683
+[2025-05-09 13:47:35] [49.228.239.134] Session3 updated successfully for guest_no: CHMGUEST00683.
+[2025-05-09 13:49:27] [49.228.239.134] Using existing guest_no: CHMGUEST00683
+[2025-05-09 13:49:27] [49.228.239.134] Session4 updated successfully for guest_no: CHMGUEST00683.
+[2025-05-09 14:30:36] [182.232.203.80] No existing guest_no found for branch HDY. Generating new guest_no...
+[2025-05-09 14:30:36] [182.232.203.80] Generated new guest_no: HDYGUEST00854 for branch HDY
+[2025-05-09 14:30:36] [182.232.203.80] Inserted resume_job session1 successfully for guest_no HDYGUEST00854.
+[2025-05-09 14:30:36] [182.232.203.80] Updated guest_next_number to 854 for branch HDY.
+[2025-05-09 14:51:42] [182.232.203.80] Using existing guest_no: HDYGUEST00854
+[2025-05-09 14:51:42] [182.232.203.80] Session2 updated successfully for guest_no: HDYGUEST00854.
+[2025-05-09 14:56:31] [182.232.203.80] Using existing guest_no: HDYGUEST00854
+[2025-05-09 14:56:31] [182.232.203.80] Session3 updated successfully for guest_no: HDYGUEST00854.
+[2025-05-09 15:03:38] [182.232.203.80] Using existing guest_no: HDYGUEST00854
+[2025-05-09 15:03:38] [182.232.203.80] Session4 updated successfully for guest_no: HDYGUEST00854.
+[2025-05-09 15:08:26] [182.232.203.80] Using existing guest_no: HDYGUEST00854
+[2025-05-09 15:08:26] [182.232.203.80] Session5 updated successfully for guest_no: HDYGUEST00854.
+[2025-05-09 23:30:16] [49.230.168.8] Using existing guest_no: HDYGUEST00854
+[2025-05-09 23:30:16] [49.230.168.8] Session1 updated successfully for guest_no: HDYGUEST00854.
+[2025-05-09 23:38:03] [49.230.168.8] Using existing guest_no: HDYGUEST00854
+[2025-05-09 23:38:03] [49.230.168.8] Session2 updated successfully for guest_no: HDYGUEST00854.
+[2025-05-09 23:40:07] [49.230.168.8] Using existing guest_no: HDYGUEST00854
+[2025-05-09 23:40:07] [49.230.168.8] Session3 updated successfully for guest_no: HDYGUEST00854.
+[2025-05-09 23:45:08] [49.230.168.8] Using existing guest_no: HDYGUEST00854
+[2025-05-09 23:45:08] [49.230.168.8] Session4 updated successfully for guest_no: HDYGUEST00854.
+[2025-05-09 23:48:14] [49.230.168.8] Using existing guest_no: HDYGUEST00854
+[2025-05-09 23:48:14] [49.230.168.8] Session5 updated successfully for guest_no: HDYGUEST00854.
+[2025-05-09 23:53:10] [49.230.168.8] Using existing guest_no: HDYGUEST00854
+[2025-05-09 23:53:10] [49.230.168.8] Session6 updated successfully for guest_no: HDYGUEST00854.
+[2025-05-09 23:53:10] [49.230.168.8] All sessions completed for guest_no: HDYGUEST00854.
+[2025-05-09 23:53:10] [49.230.168.8] --------------------------------------------------

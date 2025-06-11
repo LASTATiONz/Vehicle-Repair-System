@@ -1,0 +1,37 @@
+[2025-06-04 10:05:27] [223.205.210.75] No existing guest_no found for branch SRT. Generating new guest_no...
+[2025-06-04 10:05:27] [223.205.210.75] Generated new guest_no: SRTGUEST01220 for branch SRT
+[2025-06-04 10:05:27] [223.205.210.75] Session1 updated successfully for guest_no: SRTGUEST01220.
+[2025-06-04 10:06:28] [223.205.210.75] Using existing guest_no: SRTGUEST01220
+[2025-06-04 10:06:28] [223.205.210.75] Session2 updated successfully for guest_no: SRTGUEST01220.
+[2025-06-04 10:06:54] [223.205.210.75] Using existing guest_no: SRTGUEST01220
+[2025-06-04 10:06:54] [223.205.210.75] Session3 updated successfully for guest_no: SRTGUEST01220.
+[2025-06-04 10:07:28] [223.205.210.75] Using existing guest_no: SRTGUEST01220
+[2025-06-04 10:07:28] [223.205.210.75] Session4 updated successfully for guest_no: SRTGUEST01220.
+[2025-06-04 10:07:45] [223.205.210.75] Using existing guest_no: SRTGUEST01220
+[2025-06-04 10:07:45] [223.205.210.75] Session5 updated successfully for guest_no: SRTGUEST01220.
+[2025-06-04 10:08:05] [223.205.210.75] Using existing guest_no: SRTGUEST01220
+[2025-06-04 10:08:05] [223.205.210.75] Session6 updated successfully for guest_no: SRTGUEST01220.
+[2025-06-04 10:08:05] [223.205.210.75] All sessions completed for guest_no: SRTGUEST01220.
+[2025-06-04 10:08:05] [223.205.210.75] --------------------------------------------------
+[2025-06-04 10:18:41] [223.205.210.75] No existing guest_no found for branch SRT. Generating new guest_no...
+[2025-06-04 10:18:41] [223.205.210.75] Generated new guest_no: SRTGUEST01220 for branch SRT
+[2025-06-04 10:18:41] [223.205.210.75] Session1 updated successfully for guest_no: SRTGUEST01220.
+[2025-06-04 10:24:53] [223.205.210.75] No existing guest_no found for branch SRT. Generating new guest_no...
+[2025-06-04 10:24:53] [223.205.210.75] Generated new guest_no: SRTGUEST01222 for branch SRT
+[2025-06-04 10:24:53] [223.205.210.75] Session1 updated successfully for guest_no: SRTGUEST01222.
+[2025-06-04 10:28:11] [223.205.210.75] No existing guest_no found for branch SRT. Generating new guest_no...
+[2025-06-04 10:28:11] [223.205.210.75] Generated new guest_no: SRTGUEST02223 for branch SRT
+[2025-06-04 10:28:11] [223.205.210.75] Inserted resume_job session1 successfully for guest_no SRTGUEST02223.
+[2025-06-04 10:28:11] [223.205.210.75] Updated guest_next_number to 2223 for branch SRT.
+[2025-06-04 10:29:06] [223.205.210.75] Using existing guest_no: SRTGUEST02223
+[2025-06-04 10:29:06] [223.205.210.75] Session2 updated successfully for guest_no: SRTGUEST02223.
+[2025-06-04 10:29:26] [223.205.210.75] Using existing guest_no: SRTGUEST02223
+[2025-06-04 10:29:26] [223.205.210.75] Session3 updated successfully for guest_no: SRTGUEST02223.
+[2025-06-04 10:29:58] [223.205.210.75] Using existing guest_no: SRTGUEST02223
+[2025-06-04 10:29:58] [223.205.210.75] Session4 updated successfully for guest_no: SRTGUEST02223.
+[2025-06-04 10:30:15] [223.205.210.75] Using existing guest_no: SRTGUEST02223
+[2025-06-04 10:30:15] [223.205.210.75] Session5 updated successfully for guest_no: SRTGUEST02223.
+[2025-06-04 10:30:32] [223.205.210.75] Using existing guest_no: SRTGUEST02223
+[2025-06-04 10:30:32] [223.205.210.75] Session6 updated successfully for guest_no: SRTGUEST02223.
+[2025-06-04 10:30:32] [223.205.210.75] All sessions completed for guest_no: SRTGUEST02223.
+[2025-06-04 10:30:32] [223.205.210.75] --------------------------------------------------

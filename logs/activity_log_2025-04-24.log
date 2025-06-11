@@ -1,0 +1,30 @@
+[2025-04-24 06:47:27] [49.228.239.131] No existing guest_no found for branch CHM. Generating new guest_no...
+[2025-04-24 06:47:27] [49.228.239.131] Generated new guest_no: CHMGUEST00672 for branch CHM
+[2025-04-24 06:47:27] [49.228.239.131] Inserted resume_job session1 successfully for guest_no CHMGUEST00672.
+[2025-04-24 06:47:27] [49.228.239.131] Updated guest_next_number to 672 for branch CHM.
+[2025-04-24 06:51:56] [49.228.239.131] Using existing guest_no: CHMGUEST00672
+[2025-04-24 06:51:56] [49.228.239.131] Session2 updated successfully for guest_no: CHMGUEST00672.
+[2025-04-24 06:53:17] [49.228.239.131] Using existing guest_no: CHMGUEST00672
+[2025-04-24 06:53:17] [49.228.239.131] Session3 updated successfully for guest_no: CHMGUEST00672.
+[2025-04-24 06:57:15] [49.228.239.131] Using existing guest_no: CHMGUEST00672
+[2025-04-24 06:57:15] [49.228.239.131] Session4 updated successfully for guest_no: CHMGUEST00672.
+[2025-04-24 07:21:05] [49.228.239.131] Using existing guest_no: CHMGUEST00672
+[2025-04-24 07:21:05] [49.228.239.131] Session5 updated successfully for guest_no: CHMGUEST00672.
+[2025-04-24 07:24:55] [49.228.239.131] Using existing guest_no: CHMGUEST00672
+[2025-04-24 07:24:55] [49.228.239.131] Session6 updated successfully for guest_no: CHMGUEST00672.
+[2025-04-24 07:24:55] [49.228.239.131] All sessions completed for guest_no: CHMGUEST00672.
+[2025-04-24 07:24:55] [49.228.239.131] --------------------------------------------------
+[2025-04-24 15:31:14] [184.22.190.13] No existing guest_no found for branch SRT. Generating new guest_no...
+[2025-04-24 15:31:14] [184.22.190.13] Generated new guest_no: SRTGUEST01427 for branch SRT
+[2025-04-24 15:31:14] [184.22.190.13] Inserted resume_job session1 successfully for guest_no SRTGUEST01427.
+[2025-04-24 15:31:14] [184.22.190.13] Updated guest_next_number to 1427 for branch SRT.
+[2025-04-24 15:39:13] [184.22.190.13] Using existing guest_no: SRTGUEST01427
+[2025-04-24 15:39:13] [184.22.190.13] Session2 updated successfully for guest_no: SRTGUEST01427.
+[2025-04-24 15:43:26] [184.22.190.13] Using existing guest_no: SRTGUEST01427
+[2025-04-24 15:43:26] [184.22.190.13] Session3 updated successfully for guest_no: SRTGUEST01427.
+[2025-04-24 18:00:38] [110.168.224.242] Using existing guest_no: HDYGUEST00745
+[2025-04-24 18:00:38] [110.168.224.242] Session1 updated successfully for guest_no: HDYGUEST00745.
+[2025-04-24 18:03:38] [110.168.224.242] Using existing guest_no: HDYGUEST00745
+[2025-04-24 18:03:38] [110.168.224.242] Session2 updated successfully for guest_no: HDYGUEST00745.
+[2025-04-24 18:06:36] [110.168.224.242] Using existing guest_no: HDYGUEST00745
+[2025-04-24 18:06:36] [110.168.224.242] Session3 updated successfully for guest_no: HDYGUEST00745.

@@ -1,0 +1,79 @@
+[2025-06-09 09:45:15] [223.206.145.31] No existing guest_no found for branch SRT. Generating new guest_no...
+[2025-06-09 09:45:15] [223.206.145.31] Generated new guest_no: SRTGUEST02225 for branch SRT
+[2025-06-09 09:45:15] [223.206.145.31] Inserted resume_job session1 successfully for guest_no SRTGUEST02225.
+[2025-06-09 09:45:15] [223.206.145.31] Updated guest_next_number to 2225 for branch SRT.
+[2025-06-09 09:46:51] [223.206.145.31] Using existing guest_no: SRTGUEST02225
+[2025-06-09 09:46:51] [223.206.145.31] Session2 updated successfully for guest_no: SRTGUEST02225.
+[2025-06-09 09:47:25] [223.206.145.31] Using existing guest_no: SRTGUEST02225
+[2025-06-09 09:47:25] [223.206.145.31] Session3 updated successfully for guest_no: SRTGUEST02225.
+[2025-06-09 09:47:55] [223.206.145.31] Using existing guest_no: SRTGUEST02225
+[2025-06-09 09:47:55] [223.206.145.31] Session4 updated successfully for guest_no: SRTGUEST02225.
+[2025-06-09 09:48:20] [223.206.145.31] Using existing guest_no: SRTGUEST02225
+[2025-06-09 09:48:20] [223.206.145.31] Session5 updated successfully for guest_no: SRTGUEST02225.
+[2025-06-09 09:48:30] [223.206.145.31] Using existing guest_no: SRTGUEST02225
+[2025-06-09 09:48:30] [223.206.145.31] Session6 updated successfully for guest_no: SRTGUEST02225.
+[2025-06-09 09:48:30] [223.206.145.31] All sessions completed for guest_no: SRTGUEST02225.
+[2025-06-09 09:48:30] [223.206.145.31] --------------------------------------------------
+[2025-06-09 09:48:31] [223.206.145.31] 🔹 เริ่มการอัปโหลด - Branch: SRT | Guest No: SRTGUEST02225
+[2025-06-09 09:48:31] [223.206.145.31] 📂 สร้างโฟลเดอร์: File_Upload_SRT/SRTGUEST02225
+[2025-06-09 09:48:31] [223.206.145.31] ✅ อัปโหลดไฟล์และลดขนาดสำเร็จ: File_Upload_SRT/SRTGUEST02225/picture_upload_SRTGUEST02225.jpg
+[2025-06-09 09:48:31] [223.206.145.31] ✅ อัปเดตฐานข้อมูลสำเร็จ: guest_no = SRTGUEST02225, field = picture_upload, file = picture_upload_SRTGUEST02225.jpg
+[2025-06-09 09:48:33] [223.206.145.31] ✅ บีบอัดและลดขนาดรูปภาพสำเร็จ: File_Upload_SRT/SRTGUEST02225/idcard_upload_SRTGUEST02225.jpg
+[2025-06-09 09:48:33] [223.206.145.31] ✅ อัปเดตฐานข้อมูลสำเร็จ: guest_no = SRTGUEST02225, field = idcard_upload, file = idcard_upload_SRTGUEST02225.jpg
+[2025-06-09 09:48:36] [223.206.145.31] ✅ บีบอัดและลดขนาดรูปภาพสำเร็จ: File_Upload_SRT/SRTGUEST02225/address_upload_SRTGUEST02225.jpg
+[2025-06-09 09:48:36] [223.206.145.31] ✅ อัปเดตฐานข้อมูลสำเร็จ: guest_no = SRTGUEST02225, field = address_upload, file = address_upload_SRTGUEST02225.jpg
+[2025-06-09 09:48:36] [223.206.145.31] ❌ ไม่ได้ทำการแนบไฟล์: transcript_upload
+[2025-06-09 09:48:36] [223.206.145.31] ❌ ไม่ได้ทำการแนบไฟล์: malitary_upload
+[2025-06-09 09:48:36] [223.206.145.31] ❌ ไม่ได้ทำการแนบไฟล์: driver_upload
+[2025-06-09 09:48:36] [223.206.145.31] ❌ ไม่ได้ทำการแนบไฟล์: certify_upload
+[2025-06-09 09:48:36] [223.206.145.31] ❌ ไม่ได้ทำการแนบไฟล์: portfolio_upload
+[2025-06-09 09:48:36] [223.206.145.31] ✅ บันทึกลงฐานข้อมูลสำเร็จ: picture_upload_SRTGUEST02225.jpg, idcard_upload_SRTGUEST02225, address_upload_SRTGUEST02225
+[2025-06-09 09:51:26] [223.206.145.31] Using existing guest_no: SRTGUEST02225
+[2025-06-09 09:51:26] [223.206.145.31] Session1 updated successfully for guest_no: SRTGUEST02225.
+[2025-06-09 09:56:39] [223.206.145.31] Using existing guest_no: SRTGUEST02225
+[2025-06-09 09:56:39] [223.206.145.31] Session1 updated successfully for guest_no: SRTGUEST02225.
+[2025-06-09 09:56:46] [223.206.145.31] Using existing guest_no: SRTGUEST02225
+[2025-06-09 09:56:46] [223.206.145.31] Session2 updated successfully for guest_no: SRTGUEST02225.
+[2025-06-09 09:56:48] [223.206.145.31] Using existing guest_no: SRTGUEST02225
+[2025-06-09 09:56:48] [223.206.145.31] Session3 updated successfully for guest_no: SRTGUEST02225.
+[2025-06-09 09:59:34] [223.206.145.31] Using existing guest_no: SRTGUEST02225
+[2025-06-09 09:59:34] [223.206.145.31] Session3 updated successfully for guest_no: SRTGUEST02225.
+[2025-06-09 09:59:51] [223.206.145.31] Using existing guest_no: SRTGUEST02225
+[2025-06-09 09:59:51] [223.206.145.31] Session1 updated successfully for guest_no: SRTGUEST02225.
+[2025-06-09 10:00:12] [223.206.145.31] Using existing guest_no: SRTGUEST02225
+[2025-06-09 10:00:12] [223.206.145.31] Session2 updated successfully for guest_no: SRTGUEST02225.
+[2025-06-09 10:00:22] [223.206.145.31] Using existing guest_no: SRTGUEST02225
+[2025-06-09 10:00:22] [223.206.145.31] Session3 updated successfully for guest_no: SRTGUEST02225.
+[2025-06-09 10:00:36] [223.206.145.31] Using existing guest_no: SRTGUEST02225
+[2025-06-09 10:00:36] [223.206.145.31] Session4 updated successfully for guest_no: SRTGUEST02225.
+[2025-06-09 10:00:45] [223.206.145.31] Using existing guest_no: SRTGUEST02225
+[2025-06-09 10:00:45] [223.206.145.31] Session5 updated successfully for guest_no: SRTGUEST02225.
+[2025-06-09 10:00:54] [223.206.145.31] Using existing guest_no: SRTGUEST02225
+[2025-06-09 10:00:54] [223.206.145.31] Session6 updated successfully for guest_no: SRTGUEST02225.
+[2025-06-09 10:00:54] [223.206.145.31] All sessions completed for guest_no: SRTGUEST02225.
+[2025-06-09 10:00:54] [223.206.145.31] --------------------------------------------------
+[2025-06-09 10:00:55] [223.206.145.31] 🔹 เริ่มการอัปโหลด - Branch: SRT | Guest No: SRTGUEST02225
+[2025-06-09 10:00:55] [223.206.145.31] ✅ อัปโหลดไฟล์และลดขนาดสำเร็จ: File_Upload_SRT/SRTGUEST02225/picture_upload_SRTGUEST02225.jpg
+[2025-06-09 10:00:55] [223.206.145.31] ✅ อัปเดตฐานข้อมูลสำเร็จ: guest_no = SRTGUEST02225, field = picture_upload, file = picture_upload_SRTGUEST02225.jpg
+[2025-06-09 10:00:58] [223.206.145.31] ✅ บีบอัดและลดขนาดรูปภาพสำเร็จ: File_Upload_SRT/SRTGUEST02225/idcard_upload_SRTGUEST02225.jpg
+[2025-06-09 10:00:58] [223.206.145.31] ✅ อัปเดตฐานข้อมูลสำเร็จ: guest_no = SRTGUEST02225, field = idcard_upload, file = idcard_upload_SRTGUEST02225.jpg
+[2025-06-09 10:01:00] [223.206.145.31] ✅ บีบอัดและลดขนาดรูปภาพสำเร็จ: File_Upload_SRT/SRTGUEST02225/address_upload_SRTGUEST02225.jpg
+[2025-06-09 10:01:00] [223.206.145.31] ✅ อัปเดตฐานข้อมูลสำเร็จ: guest_no = SRTGUEST02225, field = address_upload, file = address_upload_SRTGUEST02225.jpg
+[2025-06-09 10:01:00] [223.206.145.31] ❌ ไม่ได้ทำการแนบไฟล์: transcript_upload
+[2025-06-09 10:01:00] [223.206.145.31] ❌ ไม่ได้ทำการแนบไฟล์: malitary_upload
+[2025-06-09 10:01:00] [223.206.145.31] ❌ ไม่ได้ทำการแนบไฟล์: driver_upload
+[2025-06-09 10:01:00] [223.206.145.31] ❌ ไม่ได้ทำการแนบไฟล์: certify_upload
+[2025-06-09 10:01:00] [223.206.145.31] ❌ ไม่ได้ทำการแนบไฟล์: portfolio_upload
+[2025-06-09 10:01:00] [223.206.145.31] ✅ บันทึกลงฐานข้อมูลสำเร็จ: picture_upload_SRTGUEST02225.jpg, idcard_upload_SRTGUEST02225, address_upload_SRTGUEST02225
+[2025-06-09 10:01:49] [223.206.145.31] No existing guest_no found for branch SRT. Generating new guest_no...
+[2025-06-09 10:01:49] [223.206.145.31] Generated new guest_no: SRTGUEST02226 for branch SRT
+[2025-06-09 10:01:49] [223.206.145.31] Inserted resume_job session1 successfully for guest_no SRTGUEST02226.
+[2025-06-09 10:01:49] [223.206.145.31] Updated guest_next_number to 2226 for branch SRT.
+[2025-06-09 10:17:03] [223.206.145.31] Using existing guest_no: SRTGUEST02225
+[2025-06-09 10:17:03] [223.206.145.31] Session1 updated successfully for guest_no: SRTGUEST02225.
+[2025-06-09 10:17:40] [223.206.145.31] Using existing guest_no: SRTGUEST02225
+[2025-06-09 10:17:40] [223.206.145.31] Session1 updated successfully for guest_no: SRTGUEST02225.
+[2025-06-09 10:20:00] [223.206.145.31] No existing guest_no found for branch SRT. Generating new guest_no...
+[2025-06-09 10:20:00] [223.206.145.31] Generated new guest_no: SRTGUEST02227 for branch SRT
+[2025-06-09 10:20:00] [223.206.145.31] Inserted resume_job session1 successfully for guest_no SRTGUEST02227.
+[2025-06-09 10:20:00] [223.206.145.31] Updated guest_next_number to 2227 for branch SRT.

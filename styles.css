@@ -1,0 +1,956 @@
+/* styles.css */
+body {
+  background-color: rgba(225, 225, 225, 0.518);
+  font-family: "Sarabun", Arial, sans-serif;
+  font-size: 15px;
+  color: #000033;
+}
+
+.form-session {
+  margin-bottom: 20px;
+}
+
+.form-session .invalid-feedback {
+  display: none; /* Default state is hidden */
+}
+
+.form-session .is-valid {
+  border-color: #198754; /* Bootstrap success color */
+  background-color: #d4edda; /* Light green background */
+}
+
+.form-session .is-invalid {
+  border-color: #dc3545; /* Bootstrap danger color */
+  background-color: #f8d7da; /* Light red background */
+}
+
+.form-session .invalid-feedback.d-block {
+  display: block; /* Show feedback when invalid */
+}
+
+.navbar-custom {
+  /* background-color: DodgerBlue;*/
+  background: linear-gradient(to right, #1e90ff, #87cefa);
+  color: white; /* สีข้อความ */
+  box-shadow: 0 3px 5px rgba(0, 0, 51, 0.8);
+  padding-bottom: 3px;
+}
+blockquote {
+  margin-bottom: 0.5rem;
+}
+.img_branch {
+  border-radius: 8px;
+  /*width:220px;*/
+  width: 98%;
+  height: 160px;
+  margin-left: 5px;
+  margin-right: 5px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  text-align: center;
+}
+.data {
+  text-align: justify;
+  text-indent: 50px;
+  font-size: 15px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.holder {
+  height: 150px;
+  width: 130px;
+  border: 1px solid #4682b4;
+  border-radius: 5px;
+  text-align: center;
+  margin-top: -3px;
+  box-shadow: 0px -3px 6px 2px rgba(0, 0, 0, 0.2);
+}
+.img_preview {
+  max-width: 128px;
+  max-height: 147.5px;
+  min-width: 128px;
+  min-height: 147.5px;
+  border-radius: 5px;
+  text-align: center;
+}
+input[type="file"] {
+  margin-top: 5px;
+  display: none;
+}
+.heading {
+  font-family: Montserrat;
+  font-size: 45px;
+  color: green;
+}
+.custom-file-upload {
+  border: 1px solid #0066ff;
+  display: inline-block;
+  padding: 5px 10px;
+  cursor: pointer;
+  background-color: DodgerBlue;
+  border-radius: 4px;
+  font-size: 14px;
+  width: 120px;
+  text-align: center;
+}
+.inline {
+  display: inline; /* the default for span */
+  width: 100px;
+  height: 100px;
+  padding: 5px;
+}
+.button_e:hover {
+  background-color: #0066cc;
+}
+.data {
+  text-align: justify;
+  text-indent: 30px;
+  font-size: 14px;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+/* Header and body with modify by AI  */
+
+.section-header {
+  background: linear-gradient(to right, #1e90ff, #87cefa);
+  border-radius: 5px 5px 0 0;
+  font-size: 17px;
+  font-weight: bold;
+  padding: 10px;
+  box-shadow: 0 5px 5px rgba(0, 0, 0, 0.35);
+  color: #000033;
+}
+
+.job_header {
+  background: linear-gradient(to right, #1e90ff, #87cefa);
+  border-radius: 5px 5px 0 0;
+  font-size: 15px;
+  font-weight: bold;
+  /*padding: 10px;*/
+  padding-top: 10px;
+  box-shadow: 0 5px 5px rgba(0, 0, 0, 0.35);
+  color: #000033;
+  height: 38px;
+}
+.job_headers {
+  background: linear-gradient(to right, #1e90ff, #87cefa);
+  border-radius: 5px 5px 0 0;
+  font-size: 15px;
+  font-weight: bold;
+  padding: 10px;
+  box-shadow: 0 5px 5px rgba(0, 0, 0, 0.35);
+  color: #000033;
+  height: auto;
+}
+.job_headers_dt {
+  background: linear-gradient(to right, #1e90ff, #87cefa);
+  border-radius: 5px 5px 0 0;
+  font-size: 16px;
+  font-weight: bold;
+  padding: 10px;
+  box-shadow: 0 5px 5px rgba(0, 0, 0, 0.35);
+  color: #000033;
+  height: auto;
+  text-align: center;
+}
+.span_header {
+  margin-bottom: 5px;
+}
+.section-body {
+  background-color: #f8f8ff;
+  padding: 15px;
+  box-shadow: 0 5px 5px rgba(0, 0, 0, 0.35);
+  border-radius: 0 0 5px 5px;
+}
+
+.form-group {
+  margin-bottom: 7px;
+}
+
+.section-divider {
+  border-top: 1px dashed #8c8b8b;
+}
+
+.button-group {
+  display: flex;
+  justify-content: flex-end;
+  margin-top: 10px;
+}
+
+.button-group .btn {
+  margin-left: 7px;
+}
+
+.required {
+  color: red;
+}
+
+.invalid-feedback {
+  color: red;
+  font-size: 0.875em;
+}
+
+input,
+select,
+option,
+textarea {
+  font-size: 14px;
+  color: #000033;
+  opacity: 0.8;
+}
+.font_option {
+  font-size: 14px;
+  color: #000033;
+  opacity: 0.8;
+}
+
+input[type="text"],
+input[type="date"] {
+  font-size: 14px;
+  color: #000033;
+  opacity: 0.8;
+}
+.font_bt {
+  font-size: 14.5px;
+}
+.font_h {
+  font-size: 16px;
+}
+
+.margin_bt {
+  margin-bottom: 5px;
+  position: relative;
+}
+
+.form-control::placeholder {
+  /* Chrome, Firefox, Opera, Safari 10.1+ */
+  color: #000033;
+  opacity: 0.8; /* Firefox */
+}
+
+.pd {
+  background: linear-gradient(
+    to right,
+    rgba(255, 255, 255, 0),
+    rgba(135, 206, 250, 1),
+    rgba(255, 255, 255, 0)
+  );
+  padding-top: 7px;
+  height: 45px;
+}
+
+/* Glyph, by Harry Roberts */
+
+hr.style-eight {
+  overflow: visible; /* For IE */
+  padding: 0;
+  border: none;
+  border-top: medium double #000033;
+  /* color: #000033;*/
+  text-align: center;
+  margin-bottom: -8px;
+}
+hr.style-eight:after {
+  content: "ประวัติส่วนตัว";
+  display: inline-block;
+  position: relative;
+  top: -1em;
+  font-size: 15px;
+  padding: 0 0.25em;
+  background: white;
+  color: #000033;
+}
+hr.style-one {
+  border-top: 1px dashed #000033;
+  opacity: 0.2;
+}
+.bt_attact {
+  margin-top: -7px;
+}
+
+/* ทดสอบ บาร์ */
+.progress {
+  height: 30px; /* Increase height for better visibility */
+  border-radius: 5px; /* Rounded corners */
+  background-color: rgba(225, 225, 225, 0.5); /* Light background */
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2); /* Subtle shadow for depth */
+}
+
+.progress-bar {
+  background-color: #007bff; /* Bootstrap primary color */
+  transition: width 0.4s ease; /* Smooth transition */
+  border-radius: 5px; /* Rounded corners */
+}
+
+/* Optional: Add a shine effect */
+.progress-bar::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: -100%;
+  height: 100%;
+  width: 100%;
+  background: rgba(255, 255, 255, 0.5);
+  transition: left 0.5s ease;
+  z-index: 1;
+}
+
+/*อัพโหลดรูปถ่าย*/
+.imagePreview {
+  width: 150px;
+  height: 160px;
+  background-position: center center;
+  background: url(images/avatar.png);
+  background-color: #fff;
+  background-size: cover;
+  background-repeat: no-repeat;
+  display: inline-block;
+  border-radius: 5px 5px 0px 0px;
+  box-shadow: 0px -3px 6px 2px rgba(0, 0, 0, 0.2);
+}
+
+#previewImg {
+  width: 150px;
+  height: 160px;
+  display: none;
+  border-radius: 5px 5px 0px 0px;
+}
+#img_upload {
+  width: 0px;
+  height: 0px;
+  overflow: hidden;
+}
+.btn-primary-pic {
+  width: 150px;
+  display: block;
+  border-radius: 0px 0px 5px 5px;
+  box-shadow: 0px 4px 6px 2px rgba(0, 0, 0, 0.2);
+  margin-top: -5px;
+  font-size: 14px;
+}
+.btn-primary-file {
+  width: 120px;
+  display: inline-block;
+  border-radius: 5px 5px 5px 5px;
+  box-shadow: 0px 4px 6px 2px rgba(0, 0, 0, 0.2);
+  margin-top: -5px;
+  font-size: 14px;
+}
+.imgUp {
+  margin-bottom: 0px;
+}
+
+/* ซ่อนหน้ากรอกเพิ่มเติม  */
+.hidden {
+  display: none;
+}
+
+/* แต่งปุ่ม  */
+.btn-blue-theme {
+  background-color: #007bff; /* Bootstrap Primary Blue */
+  border: none;
+  color: white;
+  font-weight: bold;
+  padding: 5px 10px;
+  font-size: 10px;
+  border-radius: 8px;
+  transition: background-color 0.3s ease, box-shadow 0.3s ease;
+}
+
+.btn-blue-theme:hover {
+  background-color: #0056b3; /* Darker shade of blue */
+  box-shadow: 0px 4px 15px rgba(0, 123, 255, 0.4);
+}
+
+.btn-blue-theme:focus {
+  outline: none;
+  box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.5);
+}
+
+/*pdpa style*/
+.pdpa_style {
+  border: none;
+  /*background-color: none; */
+  background-color: #f8f8ff;
+  color: #0066cc;
+  text-decoration: underline;
+}
+.pdpa_style:hover {
+  color: #033a70;
+  border: none;
+  background-color: none;
+  text-decoration: underline;
+}
+.blockquote {
+  border-left: 0.25rem solid #87ceff;
+  padding: 0px;
+  height: auto;
+  font-size: 14px;
+}
+.font_hj {
+  font-weight: bold;
+  font-size: 14.5px;
+}
+.font_nm {
+  font-size: 14px;
+}
+.marquee {
+  background-color: #87ceff;
+  border-radius: 5px;
+}
+.img_marquee {
+  width: auto;
+  height: 26px;
+  margin-top: -7px;
+}
+.style_h {
+  padding: 1px 18px;
+  font-weight: bold;
+  font-size: 15px;
+}
+.style_d {
+  padding: 1px 18px;
+  font-weight: none;
+  font-size: 15px;
+}
+.style_row {
+  margin-top: -5px;
+}
+.style_mt {
+  margin-top: -8px;
+}
+
+hr.style-three {
+  overflow: visible; /* For IE */
+  padding: 0;
+  border: none;
+  border-top: medium double #000020; /* สีเข้มขึ้น */
+  text-align: center;
+  margin-bottom: -8px;
+}
+hr.style-three:after {
+  content: "ประวัติส่วนตัว";
+  display: inline-block;
+  position: relative;
+  top: -1em;
+  font-size: 16px;
+  padding: 0 0.25em;
+  background: white;
+  color: #000020; /* สีเข้มขึ้น */
+}
+.pl3 {
+  padding-left: 10px;
+}
+.pl4 {
+  padding-left: 20px;
+}
+.plr {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.style_d1 {
+  position: relative;
+  border: 1px dashed #000033;
+  border-radius: 5px;
+}
+.style_d2 {
+  background-color: #87ceff;
+  z-index: 1;
+  position: absolute;
+  top: -15px;
+  left: 10px;
+  padding: 1px 8px 1px 8px;
+  border-radius: 5px;
+  border: 1px solid #000033;
+}
+.style_d3 {
+  font-size: 16px;
+  font-weight: bold;
+}
+.style_hr1 {
+  margin-left: 5px;
+  margin-right: 5px;
+  margin-top: 8px;
+  border-top: 1px dashed;
+}
+
+/* หัวข้อข้อความในเนื้อหา */
+.centered-text {
+  color: #000033;
+  text-align: center;
+  font-size: 22px;
+}
+
+.error-message {
+  color: #8b1a1a;
+  /*color: #FFFFFF;*/
+  background-color: #f08080;
+  padding: 10px;
+  border-radius: 5px;
+  margin-bottom: 15px;
+  text-align: center;
+}
+
+.div_tot {
+  display: block;
+  margin: auto;
+  border: 1px solid #0066ff;
+  background-color: #00bfff;
+  text-align: center;
+  color: white;
+  border-radius: 10px;
+  height: 150px;
+  width: 100%;
+  padding-top: 5px;
+  text-shadow: 1px 1px 2px #000000;
+  font-size: 72px;
+}
+.div_yes {
+  display: block;
+  margin: auto;
+  border: 1px solid #2e8b57;
+  background-color: #20b2aa;
+  text-align: center;
+  color: white;
+  border-radius: 10px;
+  height: 150px;
+  width: 100%;
+  padding-top: 5px;
+  text-shadow: 1px 1px 2px #000000;
+  font-size: 72px;
+}
+.div_no {
+  display: block;
+  margin: auto;
+  border: 1px solid #ff6347;
+  background-color: #f08080;
+  text-align: center;
+  color: white;
+  border-radius: 10px;
+  height: 150px;
+  width: 100%;
+  padding-top: 5px;
+  text-shadow: 1px 1px 2px #000000;
+  /*text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;*/
+  font-size: 72px;
+}
+.div_interview {
+  display: block;
+  margin: auto;
+  border: 1px solid #cc9933;
+  background-color: #ffcc66;
+  text-align: center;
+  color: white;
+  border-radius: 10px;
+  height: 150px;
+  width: 100%;
+  padding-top: 5px;
+  text-shadow: 1px 1px 2px #000000;
+  /*text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;*/
+  font-size: 72px;
+}
+
+#table,
+#table1 {
+  width: 100%;
+  font-size: 12.5px;
+  border-collapse: collapse;
+  border: 1px solid #ddd;
+  border-radius: 0.5em;
+  overflow: hidden;
+}
+#table td,
+#table th,
+#table1 td,
+#table1 th {
+  border: 0px solid #ddd;
+  padding: 5px;
+  color: #000033;
+  white-space: nowrap;
+}
+#table tr:nth-child(even) {
+  background-color: #ffffff;
+}
+#table tr:nth-child(odd) {
+  background-color: #cce0ff;
+}
+#table tr:hover {
+  background-color: #66a3ff;
+}
+#table1 tr:nth-child(even) {
+  background-color: #ffffff;
+}
+#table1 tr:nth-child(odd) {
+  background-color: #cce0ff;
+}
+#table1 tr:hover {
+  background-color: #66a3ff;
+}
+#table th,
+#table1 th {
+  padding-top: 5px;
+  padding-bottom: 5px;
+  font-size: 14px;
+  color: #000033;
+}
+
+.button_view {
+  background-color: #0066cc;
+  border: none;
+  font-size: 12.5px;
+  color: white;
+  text-align: center;
+  display: inline-block;
+  border-radius: 3px;
+  margin-left: 0px;
+  height: 23px;
+  width: 68px;
+}
+.button_edit {
+  background-color: #d2691e;
+  border: none;
+  font-size: 12.5px;
+  color: white;
+  text-align: center;
+  display: inline-block;
+  border-radius: 3px;
+  margin-left: 0px;
+  height: 23px;
+  width: 60px;
+}
+.button_h:hover {
+  background-color: #0047b3;
+}
+.button_e:hover {
+  background-color: #a0522d;
+}
+
+.txt_toppic {
+  color: white;
+  text-shadow: 1px 0px 1px #000033;
+  letter-spacing: 0.8px;
+}
+.txt_icon {
+  color: #7fffd4;
+  text-shadow: 0px 1px 1px #000033;
+}
+
+.qrcode-container {
+  margin-top: 1px;
+  margin-bottom: 3px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+.qrcode-item {
+  text-align: center;
+}
+
+.box-div {
+  background-color: #cce0ff; /* White container background */
+  padding: 8px;
+  border-radius: 5px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  margin-top: 0px;
+}
+.bd_input {
+  border: 1px solid #1e90ff;
+}
+.button_status {
+  background-color: #b8860b;
+  border: none;
+  font-size: 12.5px;
+  color: white;
+  text-align: center;
+  display: inline-block;
+  border-radius: 3px;
+  margin-left: 0px;
+  height: 23px;
+  width: 88px;
+}
+.button_pass {
+  background-color: #2e8b57;
+  border: none;
+  font-size: 12.5px;
+  color: white;
+  text-align: center;
+  display: inline-block;
+  border-radius: 3px;
+  margin-left: 0px;
+  height: 23px;
+  width: 88px;
+}
+
+/* ทดสอบ progress อันใหม่ */
+/* styles.css */
+/* === Step Indicator CSS === */
+
+.step {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  position: relative;
+  margin: 40px auto;
+  max-width: 1000px;
+}
+
+.step-item {
+  flex-grow: 1;
+  position: relative;
+  text-align: center;
+  cursor: pointer;
+  padding-bottom: 15px;
+}
+
+.step-item::before {
+  content: "";
+  position: absolute;
+  top: 18px;
+  left: 0;
+  transform: translateX(-50%);
+  width: 100%;
+  height: 4px;
+  background-color: #e0e0e0;
+  z-index: -1;
+}
+
+.step-item:first-child::before {
+  display: none;
+}
+
+.step-item:last-child::before {
+  width: 100%;
+}
+
+.step-circle {
+  width: 36px;
+  height: 36px;
+  line-height: 36px;
+  background-color: #e0e0e0;
+  color: #ffffff;
+  border-radius: 50%;
+  margin: 0 auto;
+  font-weight: bold;
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease, background-color 0.3s ease;
+}
+
+.step-label {
+  font-size: 13px;
+  margin-top: 8px;
+  color: #777;
+  transition: color 0.3s ease;
+}
+
+/* ขั้นตอนปัจจุบัน (Active) */
+.step-item.active .step-circle {
+  background-color: #007bff;
+  box-shadow: 0 0 10px rgba(0, 123, 255, 0.6);
+}
+
+.step-item.active .step-label {
+  color: #007bff;
+  font-weight: bold;
+}
+
+/* ขั้นตอนที่ผ่านแล้วสีเขียว */
+.step-item.completed .step-circle {
+  background-color: #28a745;
+}
+
+.step-item.completed .step-label {
+  color: #28a745;
+  font-weight: bold;
+}
+
+/* Hover effects */
+.step-item:hover .step-circle {
+  transform: scale(1.1);
+}
+
+/* Completed line (เส้นที่ผ่านไปแล้ว) */
+.step-item.completed:not(:first-child)::before {
+  background-color: #28a745;
+}
+
+.step-item.active::before {
+  background-color: #28a745; /* สีเขียวเช่นกัน */
+}
+
+.step-item.completed::before {
+  background-color: #28a745; /* เส้นสีเขียวสำหรับขั้นตอนที่เสร็จแล้ว */
+  height: 4px;
+  box-shadow: 0 2px 4px rgba(40, 167, 69, 0.5);
+}
+
+/* === Responsive CSS (Mobile) === */
+
+@media (max-width: 767px) {
+  .step {
+    flex-wrap: nowrap;
+    overflow-x: auto;
+    justify-content: flex-start;
+    padding: 20px 10px;
+    margin: 20px auto;
+  }
+
+  .step-item {
+    flex: 0 0 auto;
+    min-width: 90px;
+    margin-right: 10px;
+  }
+
+  .step-circle {
+    width: 28px;
+    height: 28px;
+    line-height: 28px;
+    font-size: 12px;
+  }
+
+  .step-label {
+    font-size: 11px;
+    white-space: nowrap;
+  }
+
+  .step-item::before {
+    display: none; /* ไม่แสดงเส้นเชื่อมใน Mobile */
+  }
+}
+
+/* ปรับแต่งเพิ่มเติมให้ดูหรูหราและทันสมัยยิ่งขึ้น */
+
+/* พื้นหลังส่วนฟอร์มให้ดูเรียบหรูขึ้น */
+.section-body {
+  background-color: #ffffff;
+  border-radius: 10px;
+  padding: 20px;
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1);
+  border: 1px solid #e0e0e0;
+}
+
+/* ปรับแต่ง Section header ให้ดูทันสมัย */
+.section-header {
+  background: linear-gradient(120deg, #0380d3, #0380d3, #0380d3);
+  color: #fff;
+  padding: 12px;
+  font-size: 18px;
+  font-weight: bold;
+  border-radius: 10px 10px 0 0;
+}
+
+/* ปรับแต่ง Input และ Select */
+.form-control,
+.form-select {
+  border-radius: 6px;
+  border: 1px solid #bcdcff;
+  transition: all 0.3s ease;
+  box-shadow: none;
+}
+
+.form-control:focus,
+.form-select:focus {
+  border-color: #0380d3;
+  box-shadow: 0 0 8px rgba(41, 128, 185, 0.4);
+}
+
+/* ปรับแต่ง Label */
+.form-label {
+  color: #34495e;
+  font-weight: 600;
+}
+
+/* ปรับแต่ง placeholder */
+.form-control::placeholder {
+  color: #a6a6a6;
+}
+
+/* ปรับแต่ง Button ทั่วไป */
+.btn-primary,
+.btn-primary-pic,
+.btn-primary-file {
+  background: linear-gradient(120deg, #0380d3, #0380d3);
+  border: none;
+  font-weight: bold;
+  border-radius: 8px;
+  box-shadow: 0 3px 6px rgba(30, 144, 255, 0.3);
+  transition: all 0.3s ease;
+}
+
+.btn-primary:hover,
+.btn-primary-pic:hover,
+.btn-primary-file:hover {
+  box-shadow: 0 4px 12px rgba(30, 144, 255, 0.5);
+  transform: translateY(-2px);
+}
+
+/* ปรับแต่งภาพที่อัพโหลดให้มีเงาชัดขึ้น */
+.imagePreview,
+#previewImg {
+  border-radius: 10px;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.15);
+}
+
+/* ปรับแต่งเส้นคั่น */
+hr.style-eight:after {
+  background: #ffffff;
+  font-weight: 600;
+  color: #2980b9;
+}
+
+/* Responsive ปรับขนาดบนมือถือ */
+@media (max-width: 768px) {
+  .section-body {
+    padding: 15px;
+  }
+
+  .section-header {
+    font-size: 16px;
+    padding: 10px;
+  }
+
+  .form-control,
+  .form-select {
+    font-size: 13px;
+  }
+}
+
+/* responsive ปรับขนาดกรอบรูปถ่าย ของ tablet */
+
+@media (max-width: 1024px) {
+  /* ใช้เฉพาะกับช่องอัปโหลดรูปเท่านั้น */
+  .upload-photo-section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100%; /* ให้เต็มพื้นที่ */
+  }
+
+  /* ปรับขนาดของกล่องอัปโหลดรูป */
+  .upload-photo-section .imgUp {
+    width: 150px;
+    margin-bottom: 20px; /* เพิ่มระยะห่างจากฟอร์ม */
+  }
+
+  /* ปรับขนาดของรูปตัวอย่าง */
+  .upload-photo-section .imagePreview,
+  .upload-photo-section #previewImg {
+    width: 150px;
+    height: 170px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.15);
+  }
+
+  /* ปรับปุ่มอัปโหลดให้เหมาะสม */
+  .upload-photo-section .btn-primary-pic {
+    width: 150px;
+    border-radius: 6px;
+    font-size: 14px;
+  }
+
+  /* ป้องกันการชนกันของกล่องรูปและช่อง Input */
+  .upload-photo-section .form-session {
+    margin-top: 10px;
+  }
+}

@@ -1,0 +1,16 @@
+[2025-06-01 12:53:08] [49.230.163.156] No existing guest_no found for branch SRT. Generating new guest_no...
+[2025-06-01 12:53:08] [49.230.163.156] Generated new guest_no: SRTGUEST01590 for branch SRT
+[2025-06-01 12:53:08] [49.230.163.156] Inserted resume_job session1 successfully for guest_no SRTGUEST01590.
+[2025-06-01 12:53:08] [49.230.163.156] Updated guest_next_number to 1590 for branch SRT.
+[2025-06-01 12:54:07] [49.230.163.156] Using existing guest_no: SRTGUEST01590
+[2025-06-01 12:54:07] [49.230.163.156] Session2 updated successfully for guest_no: SRTGUEST01590.
+[2025-06-01 12:55:54] [49.230.163.156] Using existing guest_no: SRTGUEST01590
+[2025-06-01 12:55:54] [49.230.163.156] Session3 updated successfully for guest_no: SRTGUEST01590.
+[2025-06-01 12:58:29] [49.230.163.156] Using existing guest_no: SRTGUEST01590
+[2025-06-01 12:58:29] [49.230.163.156] Session4 updated successfully for guest_no: SRTGUEST01590.
+[2025-06-01 12:59:11] [49.230.163.156] Using existing guest_no: SRTGUEST01590
+[2025-06-01 12:59:11] [49.230.163.156] Session5 updated successfully for guest_no: SRTGUEST01590.
+[2025-06-01 13:02:05] [49.230.163.156] Using existing guest_no: SRTGUEST01590
+[2025-06-01 13:02:05] [49.230.163.156] Session6 updated successfully for guest_no: SRTGUEST01590.
+[2025-06-01 13:02:05] [49.230.163.156] All sessions completed for guest_no: SRTGUEST01590.
+[2025-06-01 13:02:05] [49.230.163.156] --------------------------------------------------

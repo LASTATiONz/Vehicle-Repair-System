@@ -1,0 +1,472 @@
+.form-session {
+  margin-bottom: 20px;
+}
+
+.form-session .invalid-feedback {
+  display: none; /* Default state is hidden */
+}
+
+.form-session .is-valid {
+  border-color: #198754; /* Bootstrap success color */
+  background-color: #d4edda; /* Light green background */
+}
+
+.form-session .is-invalid {
+  border-color: #dc3545; /* Bootstrap danger color */
+  background-color: #f8d7da; /* Light red background */
+}
+
+.form-session .invalid-feedback.d-block {
+  display: block; /* Show feedback when invalid */
+}
+
+.img_branch {
+  border-radius: 8px;
+  /*width:220px;*/
+  width: 98%;
+  height: 160px;
+  margin-left: 5px;
+  margin-right: 5px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  text-align: center;
+}
+
+.data {
+  text-align: justify;
+  text-indent: 50px;
+  font-size: 15px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.img_preview {
+  max-width: 128px;
+  max-height: 147.5px;
+  min-width: 128px;
+  min-height: 147.5px;
+  border-radius: 5px;
+  text-align: center;
+}
+
+.data {
+  text-align: justify;
+  text-indent: 30px;
+  font-size: 14px;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+.section-header {
+  background: linear-gradient(to right, #1e90ff, #87cefa);
+  border-radius: 5px 5px 0 0;
+  font-size: 17px;
+  font-weight: bold;
+  padding: 10px;
+  box-shadow: 0 5px 5px rgba(0, 0, 0, 0.35);
+  color: #000033;
+}
+
+.section-body {
+  background-color: #f8f8ff;
+  padding: 15px;
+  box-shadow: 0 5px 5px rgba(0, 0, 0, 0.35);
+  border-radius: 0 0 5px 5px;
+}
+
+.button-group .btn {
+  margin-left: 7px;
+}
+
+.invalid-feedback {
+  color: red;
+  font-size: 0.875em;
+}
+
+.font_option {
+  font-size: 14px;
+  color: #000033;
+  opacity: 0.8;
+}
+
+.font_bt {
+  font-size: 14.5px;
+}
+
+.margin_bt {
+  margin-bottom: 5px;
+  position: relative;
+}
+
+.form-control::placeholder {
+  /* Chrome, Firefox, Opera, Safari 10.1+ */
+  color: #000033;
+  opacity: 0.8; /* Firefox */
+}
+
+.pd {
+  background: linear-gradient(
+    to right,
+    rgba(255, 255, 255, 0),
+    rgba(135, 206, 250, 1),
+    rgba(255, 255, 255, 0)
+  );
+  padding-top: 7px;
+  height: 45px;
+}
+
+hr.style-eight {
+  overflow: visible; /* For IE */
+  padding: 0;
+  border: none;
+  border-top: medium double #000033;
+  /* color: #000033;*/
+  text-align: center;
+  margin-bottom: -8px;
+}
+
+hr.style-eight:after {
+  content: "ประวัติส่วนตัว";
+  display: inline-block;
+  position: relative;
+  top: -1em;
+  font-size: 15px;
+  padding: 0 0.25em;
+  background: white;
+  color: #000033;
+}
+
+hr.style-one {
+  border-top: 1px dashed #000033;
+  opacity: 0.2;
+}
+
+.bt_attact {
+  margin-top: -7px;
+}
+
+.imagePreview {
+  width: 150px;
+  height: 160px;
+  background-position: center center;
+  background: url(../../images/avatar.png);
+  background-color: #fff;
+  background-size: cover;
+  background-repeat: no-repeat;
+  display: inline-block;
+  border-radius: 5px 5px 0px 0px;
+  box-shadow: 0px -3px 6px 2px rgba(0, 0, 0, 0.2);
+}
+
+#previewImg {
+  width: 150px;
+  height: 160px;
+  display: none;
+  border-radius: 5px 5px 0px 0px;
+}
+
+.btn-primary-pic {
+  width: 150px;
+  display: block;
+  border-radius: 0px 0px 5px 5px;
+  box-shadow: 0px 4px 6px 2px rgba(0, 0, 0, 0.2);
+  margin-top: -5px;
+  font-size: 14px;
+}
+
+.btn-primary-file {
+  width: 120px;
+  display: inline-block;
+  border-radius: 5px 5px 5px 5px;
+  box-shadow: 0px 4px 6px 2px rgba(0, 0, 0, 0.2);
+  margin-top: -5px;
+  font-size: 14px;
+}
+
+.imgUp {
+  margin-bottom: 0px;
+}
+
+.hidden {
+  display: none;
+}
+
+.btn-blue-theme {
+  background-color: #007bff; /* Bootstrap Primary Blue */
+  border: none;
+  color: white;
+  font-weight: bold;
+  padding: 5px 10px;
+  font-size: 10px;
+  border-radius: 8px;
+  transition: background-color 0.3s ease, box-shadow 0.3s ease;
+}
+
+.btn-blue-theme:hover {
+  background-color: #0056b3; /* Darker shade of blue */
+  box-shadow: 0px 4px 15px rgba(0, 123, 255, 0.4);
+}
+
+.btn-blue-theme:focus {
+  outline: none;
+  box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.5);
+}
+
+.pdpa_style {
+  border: none;
+  /*background-color: none; */
+  background-color: #f8f8ff;
+  color: #0066cc;
+  text-decoration: underline;
+}
+
+.pdpa_style:hover {
+  color: #033a70;
+  border: none;
+  background-color: none;
+  text-decoration: underline;
+}
+
+.img_marquee {
+  width: auto;
+  height: 26px;
+  margin-top: -7px;
+}
+
+.step {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  position: relative;
+  margin: 40px auto;
+  max-width: 1000px;
+}
+
+.step-item {
+  flex-grow: 1;
+  position: relative;
+  text-align: center;
+  cursor: pointer;
+  padding-bottom: 15px;
+}
+
+.step-item::before {
+  content: "";
+  position: absolute;
+  top: 18px;
+  left: 0;
+  transform: translateX(-50%);
+  width: 100%;
+  height: 4px;
+  background-color: #e0e0e0;
+  z-index: -1;
+}
+
+.step-item:first-child::before {
+  display: none;
+}
+
+.step-item:last-child::before {
+  width: 100%;
+}
+
+.step-circle {
+  width: 36px;
+  height: 36px;
+  line-height: 36px;
+  background-color: #e0e0e0;
+  color: #ffffff;
+  border-radius: 50%;
+  margin: 0 auto;
+  font-weight: bold;
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease, background-color 0.3s ease;
+}
+
+.step-label {
+  font-size: 13px;
+  margin-top: 8px;
+  color: #777;
+  transition: color 0.3s ease;
+}
+
+.step-item.active .step-circle {
+  background-color: #007bff;
+  box-shadow: 0 0 10px rgba(0, 123, 255, 0.6);
+}
+
+.step-item.active .step-label {
+  color: #007bff;
+  font-weight: bold;
+}
+
+.step-item.completed .step-circle {
+  background-color: #28a745;
+}
+
+.step-item.completed .step-label {
+  color: #28a745;
+  font-weight: bold;
+}
+
+.step-item:hover .step-circle {
+  transform: scale(1.1);
+}
+
+.step-item.completed:not(:first-child)::before {
+  background-color: #28a745;
+}
+
+.step-item.active::before {
+  background-color: #28a745; /* สีเขียวเช่นกัน */
+}
+
+.step-item.completed::before {
+  background-color: #28a745; /* เส้นสีเขียวสำหรับขั้นตอนที่เสร็จแล้ว */
+  height: 4px;
+  box-shadow: 0 2px 4px rgba(40, 167, 69, 0.5);
+}
+
+  .step {
+    flex-wrap: nowrap;
+    overflow-x: auto;
+    justify-content: flex-start;
+    padding: 20px 10px;
+    margin: 20px auto;
+  }
+
+  .step-item {
+    flex: 0 0 auto;
+    min-width: 90px;
+    margin-right: 10px;
+  }
+
+  .step-circle {
+    width: 28px;
+    height: 28px;
+    line-height: 28px;
+    font-size: 12px;
+  }
+
+  .step-label {
+    font-size: 11px;
+    white-space: nowrap;
+  }
+
+  .step-item::before {
+    display: none; /* ไม่แสดงเส้นเชื่อมใน Mobile */
+  }
+
+.section-body {
+  background-color: #ffffff;
+  border-radius: 10px;
+  padding: 20px;
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1);
+  border: 1px solid #e0e0e0;
+}
+
+.section-header {
+  background: linear-gradient(120deg, #0380d3, #0380d3, #0380d3);
+  color: #fff;
+  padding: 12px;
+  font-size: 18px;
+  font-weight: bold;
+  border-radius: 10px 10px 0 0;
+}
+
+.form-control,
+.form-select {
+  border-radius: 6px;
+  border: 1px solid #bcdcff;
+  transition: all 0.3s ease;
+  box-shadow: none;
+}
+
+.form-control:focus,
+.form-select:focus {
+  border-color: #0380d3;
+  box-shadow: 0 0 8px rgba(41, 128, 185, 0.4);
+}
+
+.form-label {
+  color: #34495e;
+  font-weight: 600;
+}
+
+.form-control::placeholder {
+  color: #a6a6a6;
+}
+
+.btn-primary,
+.btn-primary-pic,
+.btn-primary-file {
+  background: linear-gradient(120deg, #0380d3, #0380d3);
+  border: none;
+  font-weight: bold;
+  border-radius: 8px;
+  box-shadow: 0 3px 6px rgba(30, 144, 255, 0.3);
+  transition: all 0.3s ease;
+}
+
+.btn-primary:hover,
+.btn-primary-pic:hover,
+.btn-primary-file:hover {
+  box-shadow: 0 4px 12px rgba(30, 144, 255, 0.5);
+  transform: translateY(-2px);
+}
+
+.imagePreview,
+#previewImg {
+  border-radius: 10px;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.15);
+}
+
+hr.style-eight:after {
+  background: #ffffff;
+  font-weight: 600;
+  color: #2980b9;
+}
+
+  .section-body {
+    padding: 15px;
+  }
+
+  .section-header {
+    font-size: 16px;
+    padding: 10px;
+  }
+
+  .form-control,
+  .form-select {
+    font-size: 13px;
+  }
+
+  .upload-photo-section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100%; /* ให้เต็มพื้นที่ */
+  }
+
+  .upload-photo-section .imgUp {
+    width: 150px;
+    margin-bottom: 20px; /* เพิ่มระยะห่างจากฟอร์ม */
+  }
+
+  .upload-photo-section .imagePreview,
+  .upload-photo-section #previewImg {
+    width: 150px;
+    height: 170px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.15);
+  }
+
+  .upload-photo-section .btn-primary-pic {
+    width: 150px;
+    border-radius: 6px;
+    font-size: 14px;
+  }
+
+  .upload-photo-section .form-session {
+    margin-top: 10px;
+  }

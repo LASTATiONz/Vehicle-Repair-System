@@ -1,0 +1,8 @@
+[2025-03-27 13:19:40] [172.141.11.165] No existing guest_no found for branch SRT. Generating new guest_no...
+[2025-03-27 13:19:40] [172.141.11.165] Generated new guest_no: SRTGUEST01207 for branch SRT
+[2025-03-27 13:19:40] [172.141.11.165] Inserted resume_job session1 successfully for guest_no SRTGUEST01207.
+[2025-03-27 13:19:40] [172.141.11.165] Updated guest_next_number to 1207 for branch SRT.
+[2025-03-27 13:20:27] [172.141.11.165] Using existing guest_no: SRTGUEST01207
+[2025-03-27 13:20:27] [172.141.11.165] Session6 updated successfully for guest_no: SRTGUEST01207.
+[2025-03-27 13:20:27] [172.141.11.165] All sessions completed for guest_no: SRTGUEST01207.
+[2025-03-27 13:20:27] [172.141.11.165] --------------------------------------------------

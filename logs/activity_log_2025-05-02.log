@@ -1,0 +1,28 @@
+[2025-05-02 07:04:58] [49.237.202.206] No existing guest_no found for branch SRT. Generating new guest_no...
+[2025-05-02 07:04:58] [49.237.202.206] Generated new guest_no: SRTGUEST01469 for branch SRT
+[2025-05-02 07:04:58] [49.237.202.206] Inserted resume_job session1 successfully for guest_no SRTGUEST01469.
+[2025-05-02 07:04:58] [49.237.202.206] Updated guest_next_number to 1469 for branch SRT.
+[2025-05-02 07:09:33] [49.237.202.206] Using existing guest_no: SRTGUEST01469
+[2025-05-02 07:09:33] [49.237.202.206] Session2 updated successfully for guest_no: SRTGUEST01469.
+[2025-05-02 07:11:24] [49.237.202.206] Using existing guest_no: SRTGUEST01469
+[2025-05-02 07:11:24] [49.237.202.206] Session3 updated successfully for guest_no: SRTGUEST01469.
+[2025-05-02 07:15:25] [49.237.202.206] Using existing guest_no: SRTGUEST01469
+[2025-05-02 07:15:25] [49.237.202.206] Session4 updated successfully for guest_no: SRTGUEST01469.
+[2025-05-02 07:22:56] [49.237.16.145] Using existing guest_no: SRTGUEST01469
+[2025-05-02 07:22:56] [49.237.16.145] Session5 updated successfully for guest_no: SRTGUEST01469.
+[2025-05-02 07:24:13] [49.237.16.145] Using existing guest_no: SRTGUEST01469
+[2025-05-02 07:24:13] [49.237.16.145] Session6 updated successfully for guest_no: SRTGUEST01469.
+[2025-05-02 07:24:13] [49.237.16.145] All sessions completed for guest_no: SRTGUEST01469.
+[2025-05-02 07:24:13] [49.237.16.145] --------------------------------------------------
+[2025-05-02 07:30:17] [49.237.16.145] Using existing guest_no: SRTGUEST01469
+[2025-05-02 07:30:17] [49.237.16.145] Session1 updated successfully for guest_no: SRTGUEST01469.
+[2025-05-02 17:03:29] [49.229.234.88] No existing guest_no found for branch HDY. Generating new guest_no...
+[2025-05-02 17:03:29] [49.229.234.88] Generated new guest_no: HDYGUEST00850 for branch HDY
+[2025-05-02 17:03:29] [49.229.234.88] Inserted resume_job session1 successfully for guest_no HDYGUEST00850.
+[2025-05-02 17:03:29] [49.229.234.88] Updated guest_next_number to 850 for branch HDY.
+[2025-05-02 17:20:01] [49.229.234.88] Using existing guest_no: HDYGUEST00850
+[2025-05-02 17:20:01] [49.229.234.88] Session2 updated successfully for guest_no: HDYGUEST00850.
+[2025-05-02 17:26:07] [49.229.234.89] Using existing guest_no: HDYGUEST00850
+[2025-05-02 17:26:07] [49.229.234.89] Session3 updated successfully for guest_no: HDYGUEST00850.
+[2025-05-02 17:36:51] [49.229.234.86] Using existing guest_no: HDYGUEST00850
+[2025-05-02 17:36:51] [49.229.234.86] Session4 updated successfully for guest_no: HDYGUEST00850.
