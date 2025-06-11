@@ -1,0 +1,30 @@
+# Composer-managed dependencies
+/vendor/
+
+# Environment configuration files
+.env
+.env.local
+.env.*.local
+.env.testing
+
+# Application log files
+*.log
+logs/
+/tmp/
+
+# IDE and editor specific files
+.idea/
+.vscode/
+*.swp
+*~
+nbproject/
+
+# macOS specific files
+.DS_Store
+
+# PHPUnit test cache
+/phpunit.result.cache
+coverage.xml
+
+# Compiled assets or build artifacts
+/public/build/
