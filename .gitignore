@@ -1,1 +1,21 @@
+# Custom rule from local machine
 db_connect.php
+
+# Standard rules from GitHub's PHP template
+#
+# Composer
+/vendor/
+composer.lock
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Logs
+logs/
+*.log
+
+# IDE settings
+.idea/
+.vscode/
